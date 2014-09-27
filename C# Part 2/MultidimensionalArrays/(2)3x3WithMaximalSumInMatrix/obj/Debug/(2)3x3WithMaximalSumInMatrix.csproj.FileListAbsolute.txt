@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(2)3x3WithMaximalSumInMatrix\bin\Debug\(2)3x3WithMaximalSumInMatrix.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(2)3x3WithMaximalSumInMatrix\bin\Debug\(2)3x3WithMaximalSumInMatrix.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(2)3x3WithMaximalSumInMatrix\bin\Debug\(2)3x3WithMaximalSumInMatrix.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(2)3x3WithMaximalSumInMatrix\obj\Debug\(2)3x3WithMaximalSumInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(2)3x3WithMaximalSumInMatrix\obj\Debug\(2)3x3WithMaximalSumInMatrix.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(2)3x3WithMaximalSumInMatrix\obj\Debug\(2)3x3WithMaximalSumInMatrix.pdb

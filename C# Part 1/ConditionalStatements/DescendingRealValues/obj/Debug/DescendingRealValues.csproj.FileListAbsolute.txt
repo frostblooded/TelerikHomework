@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\DescendingRealValues\bin\Debug\DescendingRealValues.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\DescendingRealValues\bin\Debug\DescendingRealValues.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\DescendingRealValues\bin\Debug\DescendingRealValues.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\DescendingRealValues\obj\Debug\DescendingRealValues.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\DescendingRealValues\obj\Debug\DescendingRealValues.pdb

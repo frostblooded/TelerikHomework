@@ -1,0 +1,9 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceInArrayWithSumS\bin\Debug\SequenceInArrayWithSumS.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceInArrayWithSumS\bin\Debug\SequenceInArrayWithSumS.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceInArrayWithSumS\bin\Debug\SequenceInArrayWithSumS.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceInArrayWithSumS\obj\Debug\SequenceInArrayWithSumS.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceInArrayWithSumS\obj\Debug\SequenceInArrayWithSumS.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceInArrayWithSumS\obj\Debug\SequenceInArrayWithSumS.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\SequenceInArrayWithSumS\bin\Debug\SequenceInArrayWithSumS.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\SequenceInArrayWithSumS\obj\Debug\SequenceInArrayWithSumS.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\SequenceInArrayWithSumS\obj\Debug\SequenceInArrayWithSumS.pdb

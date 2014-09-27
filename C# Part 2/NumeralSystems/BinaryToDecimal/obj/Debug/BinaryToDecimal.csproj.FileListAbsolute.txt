@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

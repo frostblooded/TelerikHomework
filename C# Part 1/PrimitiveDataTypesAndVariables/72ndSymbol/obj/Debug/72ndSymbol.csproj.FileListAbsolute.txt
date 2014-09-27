@@ -1,0 +1,6 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\72ndSymbol\bin\Debug\72ndSymbol.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\72ndSymbol\bin\Debug\72ndSymbol.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\72ndSymbol\bin\Debug\72ndSymbol.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\72ndSymbol\obj\Debug\72ndSymbol.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\72ndSymbol\obj\Debug\72ndSymbol.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\72ndSymbol\obj\Debug\72ndSymbol.csprojResolveAssemblyReference.cache

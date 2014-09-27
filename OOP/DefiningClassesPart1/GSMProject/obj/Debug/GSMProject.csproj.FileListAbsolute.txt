@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart1\GSMProject\bin\Debug\GSMProject.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart1\GSMProject\obj\Debug\GSMProject.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart1\GSMProject\bin\Debug\GSMProject.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart1\GSMProject\bin\Debug\GSMProject.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart1\GSMProject\obj\Debug\GSMProject.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart1\GSMProject\obj\Debug\GSMProject.pdb

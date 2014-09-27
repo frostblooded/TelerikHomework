@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\NFactiorialUpTo100\bin\Debug\NFactiorialUpTo100.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\NFactiorialUpTo100\bin\Debug\NFactiorialUpTo100.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\NFactiorialUpTo100\bin\Debug\NFactiorialUpTo100.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\NFactiorialUpTo100\obj\Debug\NFactiorialUpTo100.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\NFactiorialUpTo100\obj\Debug\NFactiorialUpTo100.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\NFactiorialUpTo100\obj\Debug\NFactiorialUpTo100.pdb

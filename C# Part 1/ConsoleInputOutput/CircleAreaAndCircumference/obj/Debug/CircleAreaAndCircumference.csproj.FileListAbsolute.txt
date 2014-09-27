@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CircleAreaAndCircumference\bin\Debug\CircleAreaAndCircumference.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CircleAreaAndCircumference\bin\Debug\CircleAreaAndCircumference.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CircleAreaAndCircumference\bin\Debug\CircleAreaAndCircumference.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CircleAreaAndCircumference\obj\Debug\CircleAreaAndCircumference.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CircleAreaAndCircumference\obj\Debug\CircleAreaAndCircumference.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CircleAreaAndCircumference\obj\Debug\CircleAreaAndCircumference.pdb

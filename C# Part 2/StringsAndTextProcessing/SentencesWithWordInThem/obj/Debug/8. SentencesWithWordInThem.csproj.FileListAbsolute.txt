@@ -1,0 +1,3 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\SentencesWithWordInThem\bin\Debug\SentencesWithWordInThem.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\SentencesWithWordInThem\obj\Debug\SentencesWithWordInThem.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\SentencesWithWordInThem\obj\Debug\SentencesWithWordInThem.pdb

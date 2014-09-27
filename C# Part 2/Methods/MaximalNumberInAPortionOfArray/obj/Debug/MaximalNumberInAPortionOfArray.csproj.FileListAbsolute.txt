@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\MaximalNumberInAPortionOfArray\bin\Debug\MaximalNumberInAPortionOfArray.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\MaximalNumberInAPortionOfArray\bin\Debug\MaximalNumberInAPortionOfArray.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\MaximalNumberInAPortionOfArray\bin\Debug\MaximalNumberInAPortionOfArray.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\MaximalNumberInAPortionOfArray\obj\Debug\MaximalNumberInAPortionOfArray.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\MaximalNumberInAPortionOfArray\obj\Debug\MaximalNumberInAPortionOfArray.pdb

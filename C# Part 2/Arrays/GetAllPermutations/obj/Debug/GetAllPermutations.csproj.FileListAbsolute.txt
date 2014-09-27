@@ -1,0 +1,9 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\GetAllPermutations\bin\Debug\GetAllPermutations.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\GetAllPermutations\bin\Debug\GetAllPermutations.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\GetAllPermutations\bin\Debug\GetAllPermutations.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\GetAllPermutations\obj\Debug\GetAllPermutations.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\GetAllPermutations\obj\Debug\GetAllPermutations.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\GetAllPermutations\obj\Debug\GetAllPermutations.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\GetAllPermutations\bin\Debug\GetAllPermutations.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\GetAllPermutations\obj\Debug\GetAllPermutations.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\GetAllPermutations\obj\Debug\GetAllPermutations.pdb

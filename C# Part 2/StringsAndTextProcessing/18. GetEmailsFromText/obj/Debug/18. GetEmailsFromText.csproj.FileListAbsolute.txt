@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\18. GetEmailsFromText\bin\Debug\_18.GetEmailsFromText.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\18. GetEmailsFromText\bin\Debug\_18.GetEmailsFromText.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\18. GetEmailsFromText\bin\Debug\_18.GetEmailsFromText.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\18. GetEmailsFromText\obj\Debug\18. GetEmailsFromText.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\18. GetEmailsFromText\obj\Debug\_18.GetEmailsFromText.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\18. GetEmailsFromText\obj\Debug\_18.GetEmailsFromText.pdb

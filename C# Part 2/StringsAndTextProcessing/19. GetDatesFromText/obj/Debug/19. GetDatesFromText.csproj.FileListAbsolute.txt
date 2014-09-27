@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\19. GetDatesFromText\bin\Debug\_19.GetDatesFromText.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\19. GetDatesFromText\bin\Debug\_19.GetDatesFromText.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\19. GetDatesFromText\bin\Debug\_19.GetDatesFromText.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\19. GetDatesFromText\obj\Debug\_19.GetDatesFromText.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\19. GetDatesFromText\obj\Debug\_19.GetDatesFromText.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\19. GetDatesFromText\obj\Debug\19. GetDatesFromText.csprojResolveAssemblyReference.cache

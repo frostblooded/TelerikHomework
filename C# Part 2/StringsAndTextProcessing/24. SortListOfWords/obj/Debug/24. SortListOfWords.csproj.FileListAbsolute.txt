@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\24. SortListOfWords\bin\Debug\_24.SortListOfWords.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\24. SortListOfWords\bin\Debug\_24.SortListOfWords.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\24. SortListOfWords\bin\Debug\_24.SortListOfWords.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\24. SortListOfWords\obj\Debug\_24.SortListOfWords.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\24. SortListOfWords\obj\Debug\_24.SortListOfWords.pdb

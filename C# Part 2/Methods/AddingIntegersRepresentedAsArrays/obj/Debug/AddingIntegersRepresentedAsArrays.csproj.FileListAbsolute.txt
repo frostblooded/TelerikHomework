@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\AddingIntegersRepresentedAsArrays\bin\Debug\AddingIntegersRepresentedAsArrays.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\AddingIntegersRepresentedAsArrays\obj\Debug\AddingIntegersRepresentedAsArrays.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\AddingIntegersRepresentedAsArrays\bin\Debug\AddingIntegersRepresentedAsArrays.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\AddingIntegersRepresentedAsArrays\bin\Debug\AddingIntegersRepresentedAsArrays.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\AddingIntegersRepresentedAsArrays\obj\Debug\AddingIntegersRepresentedAsArrays.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\AddingIntegersRepresentedAsArrays\obj\Debug\AddingIntegersRepresentedAsArrays.pdb

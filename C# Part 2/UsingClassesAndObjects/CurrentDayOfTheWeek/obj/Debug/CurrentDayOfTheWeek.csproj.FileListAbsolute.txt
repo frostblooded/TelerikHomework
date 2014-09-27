@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\CurrentDayOfTheWeek\bin\Debug\CurrentDayOfTheWeek.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\CurrentDayOfTheWeek\bin\Debug\CurrentDayOfTheWeek.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\CurrentDayOfTheWeek\bin\Debug\CurrentDayOfTheWeek.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\CurrentDayOfTheWeek\obj\Debug\CurrentDayOfTheWeek.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\CurrentDayOfTheWeek\obj\Debug\CurrentDayOfTheWeek.pdb

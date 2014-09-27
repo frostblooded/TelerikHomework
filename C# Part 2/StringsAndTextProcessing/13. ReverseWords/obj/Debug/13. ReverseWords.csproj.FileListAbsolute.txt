@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\13. ReverseWords\bin\Debug\_13.ReverseWords.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\13. ReverseWords\bin\Debug\_13.ReverseWords.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\13. ReverseWords\bin\Debug\_13.ReverseWords.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\13. ReverseWords\obj\Debug\_13.ReverseWords.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\13. ReverseWords\obj\Debug\_13.ReverseWords.pdb

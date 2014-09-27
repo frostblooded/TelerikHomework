@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\3. Are brackets correct\bin\Debug\_3.Are_brackets_correct.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\3. Are brackets correct\bin\Debug\_3.Are_brackets_correct.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\3. Are brackets correct\bin\Debug\_3.Are_brackets_correct.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\3. Are brackets correct\obj\Debug\_3.Are_brackets_correct.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\3. Are brackets correct\obj\Debug\_3.Are_brackets_correct.pdb

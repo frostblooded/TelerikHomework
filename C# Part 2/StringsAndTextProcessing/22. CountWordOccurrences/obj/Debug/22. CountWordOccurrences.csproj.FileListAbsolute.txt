@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\22. CountWordOccurrences\bin\Debug\_22.CountWordOccurrences.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\22. CountWordOccurrences\bin\Debug\_22.CountWordOccurrences.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\22. CountWordOccurrences\bin\Debug\_22.CountWordOccurrences.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\22. CountWordOccurrences\obj\Debug\_22.CountWordOccurrences.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\22. CountWordOccurrences\obj\Debug\_22.CountWordOccurrences.pdb

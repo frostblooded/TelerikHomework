@@ -1,0 +1,5 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintSequence\bin\Debug\PrintSequence.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintSequence\bin\Debug\PrintSequence.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintSequence\bin\Debug\PrintSequence.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintSequence\obj\Debug\PrintSequence.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintSequence\obj\Debug\PrintSequence.pdb

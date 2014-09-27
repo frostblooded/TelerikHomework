@@ -1,0 +1,12 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\PrimeNumbersToTenMillion\bin\Debug\PrimeNumbersToTenMillion.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\PrimeNumbersToTenMillion\bin\Debug\PrimeNumbersToTenMillion.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\PrimeNumbersToTenMillion\bin\Debug\PrimeNumbersToTenMillion.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\PrimeNumbersToTenMillion\obj\Debug\PrimeNumbersToTenMillion.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\PrimeNumbersToTenMillion\obj\Debug\PrimeNumbersToTenMillion.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\PrimeNumbersToTenMillion\obj\Debug\PrimeNumbersToTenMillion.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\PrimeNumbersToTenMillion\bin\Debug\PrimeNumbersToTenMillion.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\PrimeNumbersToTenMillion\bin\Debug\PrimeNumbersToTenMillion.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\PrimeNumbersToTenMillion\bin\Debug\PrimeNumbersToTenMillion.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\PrimeNumbersToTenMillion\obj\Debug\PrimeNumbersToTenMillion.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\PrimeNumbersToTenMillion\obj\Debug\PrimeNumbersToTenMillion.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\PrimeNumbersToTenMillion\obj\Debug\PrimeNumbersToTenMillion.pdb

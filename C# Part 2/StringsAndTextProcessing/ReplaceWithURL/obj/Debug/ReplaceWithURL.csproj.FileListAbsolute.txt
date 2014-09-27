@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\ReplaceWithURL\bin\Debug\ReplaceWithURL.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\ReplaceWithURL\bin\Debug\ReplaceWithURL.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\ReplaceWithURL\bin\Debug\ReplaceWithURL.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\ReplaceWithURL\obj\Debug\ReplaceWithURL.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\ReplaceWithURL\obj\Debug\ReplaceWithURL.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\ReplaceWithURL\obj\Debug\ReplaceWithURL.pdb

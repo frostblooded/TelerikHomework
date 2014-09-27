@@ -1,0 +1,6 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CopyrightTriangle\bin\Debug\CopyrightTriangle.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CopyrightTriangle\obj\Debug\CopyrightTriangle.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CopyrightTriangle\obj\Debug\CopyrightTriangle.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CopyrightTriangle\obj\Debug\CopyrightTriangle.csprojResolveAssemblyReference.cache

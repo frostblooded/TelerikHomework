@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteWordsStartingWithTest\bin\Debug\DeleteWordsStartingWithTest.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteWordsStartingWithTest\bin\Debug\DeleteWordsStartingWithTest.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteWordsStartingWithTest\bin\Debug\DeleteWordsStartingWithTest.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteWordsStartingWithTest\obj\Debug\DeleteWordsStartingWithTest.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteWordsStartingWithTest\obj\Debug\DeleteWordsStartingWithTest.pdb

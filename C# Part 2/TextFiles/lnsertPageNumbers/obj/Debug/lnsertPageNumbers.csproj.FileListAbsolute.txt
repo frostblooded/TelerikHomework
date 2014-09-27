@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\lnsertPageNumbers\bin\Debug\lnsertPageNumbers.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\lnsertPageNumbers\bin\Debug\lnsertPageNumbers.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\lnsertPageNumbers\bin\Debug\lnsertPageNumbers.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\lnsertPageNumbers\obj\Debug\lnsertPageNumbers.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\lnsertPageNumbers\obj\Debug\lnsertPageNumbers.pdb

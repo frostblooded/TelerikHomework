@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\GreatestSequenceOfSameStrings\bin\Debug\GreatestSequenceOfSameStrings.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\GreatestSequenceOfSameStrings\bin\Debug\GreatestSequenceOfSameStrings.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\GreatestSequenceOfSameStrings\bin\Debug\GreatestSequenceOfSameStrings.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\GreatestSequenceOfSameStrings\obj\Debug\GreatestSequenceOfSameStrings.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\GreatestSequenceOfSameStrings\obj\Debug\GreatestSequenceOfSameStrings.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\GreatestSequenceOfSameStrings\obj\Debug\GreatestSequenceOfSameStrings.pdb

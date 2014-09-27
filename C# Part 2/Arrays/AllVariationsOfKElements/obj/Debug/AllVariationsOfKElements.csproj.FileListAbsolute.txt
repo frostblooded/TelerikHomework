@@ -1,0 +1,10 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\AllVariationsOfKElements\bin\Debug\AllVariationsOfKElements.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\AllVariationsOfKElements\bin\Debug\AllVariationsOfKElements.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\AllVariationsOfKElements\bin\Debug\AllVariationsOfKElements.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\AllVariationsOfKElements\obj\Debug\AllVariationsOfKElements.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\AllVariationsOfKElements\obj\Debug\AllVariationsOfKElements.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\AllVariationsOfKElements\bin\Debug\AllVariationsOfKElements.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\AllVariationsOfKElements\obj\Debug\AllVariationsOfKElements.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\AllVariationsOfKElements\obj\Debug\AllVariationsOfKElements.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\AllVariationsOfKElements\bin\Debug\AllVariationsOfKElements.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\AllVariationsOfKElements\bin\Debug\AllVariationsOfKElements.pdb

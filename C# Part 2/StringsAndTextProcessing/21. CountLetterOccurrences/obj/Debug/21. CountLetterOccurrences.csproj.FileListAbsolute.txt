@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\21. CountLetterOccurrences\bin\Debug\_21.CountLetterOccurrences.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\21. CountLetterOccurrences\bin\Debug\_21.CountLetterOccurrences.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\21. CountLetterOccurrences\bin\Debug\_21.CountLetterOccurrences.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\21. CountLetterOccurrences\obj\Debug\21. CountLetterOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\21. CountLetterOccurrences\obj\Debug\_21.CountLetterOccurrences.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\21. CountLetterOccurrences\obj\Debug\_21.CountLetterOccurrences.pdb

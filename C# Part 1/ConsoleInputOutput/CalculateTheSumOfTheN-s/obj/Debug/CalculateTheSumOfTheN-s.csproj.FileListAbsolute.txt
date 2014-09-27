@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateTheSumOfTheN-s\bin\Debug\CalculateTheSumOfTheN-s.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateTheSumOfTheN-s\bin\Debug\CalculateTheSumOfTheN-s.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateTheSumOfTheN-s\bin\Debug\CalculateTheSumOfTheN-s.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateTheSumOfTheN-s\obj\Debug\CalculateTheSumOfTheN-s.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateTheSumOfTheN-s\obj\Debug\CalculateTheSumOfTheN-s.pdb

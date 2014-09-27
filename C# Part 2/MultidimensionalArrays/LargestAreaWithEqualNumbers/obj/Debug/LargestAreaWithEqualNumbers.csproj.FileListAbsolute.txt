@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\LargestAreaWithEqualNumbers\bin\Debug\LargestAreaWithEqualNumbers.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\LargestAreaWithEqualNumbers\bin\Debug\LargestAreaWithEqualNumbers.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\LargestAreaWithEqualNumbers\bin\Debug\LargestAreaWithEqualNumbers.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\LargestAreaWithEqualNumbers\obj\Debug\LargestAreaWithEqualNumbers.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\LargestAreaWithEqualNumbers\obj\Debug\LargestAreaWithEqualNumbers.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\LargestAreaWithEqualNumbers\obj\Debug\LargestAreaWithEqualNumbers.csprojResolveAssemblyReference.cache

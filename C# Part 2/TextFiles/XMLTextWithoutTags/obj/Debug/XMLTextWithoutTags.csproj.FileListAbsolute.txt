@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\XMLTextWithoutTags\bin\Debug\XMLTextWithoutTags.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\XMLTextWithoutTags\bin\Debug\XMLTextWithoutTags.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\XMLTextWithoutTags\bin\Debug\XMLTextWithoutTags.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\XMLTextWithoutTags\obj\Debug\XMLTextWithoutTags.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\XMLTextWithoutTags\obj\Debug\XMLTextWithoutTags.pdb

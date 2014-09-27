@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ConcatenateTwoTextFiles\bin\Debug\ConcatenateTwoTextFiles.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ConcatenateTwoTextFiles\obj\Debug\ConcatenateTwoTextFiles.csprojResolveAssemblyReference.cache

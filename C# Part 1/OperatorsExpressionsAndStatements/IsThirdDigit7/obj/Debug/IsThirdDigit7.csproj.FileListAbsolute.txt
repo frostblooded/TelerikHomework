@@ -1,0 +1,5 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\IsThirdDigit7\bin\Debug\IsThirdDigit7.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\IsThirdDigit7\bin\Debug\IsThirdDigit7.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\IsThirdDigit7\obj\Debug\IsThirdDigit7.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\IsThirdDigit7\obj\Debug\IsThirdDigit7.pdb

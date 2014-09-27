@@ -1,0 +1,15 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SequenceOfMaximalSum\bin\Debug\SequenceOfMaximalSum.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SequenceOfMaximalSum\obj\Debug\SequenceOfMaximalSum.pdb

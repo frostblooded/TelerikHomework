@@ -1,0 +1,9 @@
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\bin\Debug\MatrixClass.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\bin\Debug\MatrixClass.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\obj\Debug\MatrixClass.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\obj\Debug\MatrixClass.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\obj\Debug\MatrixClass.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\bin\Debug\MatrixClass.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\obj\Debug\MatrixClass.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\MultidimensionalArrays\MatrixClass\obj\Debug\MatrixClass.pdb

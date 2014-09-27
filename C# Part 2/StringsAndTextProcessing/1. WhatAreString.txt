@@ -1,0 +1,3 @@
+Strings are essentially an array of characters (chars).
+They have an indexation, but it only allows you to read characters from the string, not change them.
+Some of their most useful methods include Substring, Replace, Remove.

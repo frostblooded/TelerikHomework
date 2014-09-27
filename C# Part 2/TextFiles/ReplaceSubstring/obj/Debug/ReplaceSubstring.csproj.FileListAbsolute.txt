@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ReplaceSubstring\bin\Debug\ReplaceSubstring.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ReplaceSubstring\bin\Debug\ReplaceSubstring.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ReplaceSubstring\bin\Debug\ReplaceSubstring.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ReplaceSubstring\obj\Debug\ReplaceSubstring.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\ReplaceSubstring\obj\Debug\ReplaceSubstring.pdb

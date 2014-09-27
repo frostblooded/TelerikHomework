@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\SortStringsFromTextFile\bin\Debug\SortStringsFromTextFile.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\SortStringsFromTextFile\bin\Debug\SortStringsFromTextFile.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\SortStringsFromTextFile\bin\Debug\SortStringsFromTextFile.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\SortStringsFromTextFile\obj\Debug\SortStringsFromTextFile.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\SortStringsFromTextFile\obj\Debug\SortStringsFromTextFile.pdb

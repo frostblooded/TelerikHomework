@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\Three-DigitNumberInWords\bin\Debug\Three-DigitNumberInWords.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\Three-DigitNumberInWords\bin\Debug\Three-DigitNumberInWords.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\Three-DigitNumberInWords\bin\Debug\Three-DigitNumberInWords.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\Three-DigitNumberInWords\obj\Debug\Three-DigitNumberInWords.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\Three-DigitNumberInWords\obj\Debug\Three-DigitNumberInWords.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\Three-DigitNumberInWords\obj\Debug\Three-DigitNumberInWords.pdb

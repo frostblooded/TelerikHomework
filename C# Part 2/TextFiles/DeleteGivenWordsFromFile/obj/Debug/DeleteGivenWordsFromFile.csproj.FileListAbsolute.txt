@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteGivenWordsFromFile\bin\Debug\DeleteGivenWordsFromFile.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteGivenWordsFromFile\bin\Debug\DeleteGivenWordsFromFile.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteGivenWordsFromFile\bin\Debug\DeleteGivenWordsFromFile.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteGivenWordsFromFile\obj\Debug\DeleteGivenWordsFromFile.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteGivenWordsFromFile\obj\Debug\DeleteGivenWordsFromFile.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\DeleteGivenWordsFromFile\obj\Debug\DeleteGivenWordsFromFile.csprojResolveAssemblyReference.cache

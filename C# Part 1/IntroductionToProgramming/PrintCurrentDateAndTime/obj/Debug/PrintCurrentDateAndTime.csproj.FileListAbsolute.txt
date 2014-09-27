@@ -1,0 +1,5 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintCurrentDateAndTime\bin\Debug\PrintCurrentDateAndTime.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintCurrentDateAndTime\obj\Debug\PrintCurrentDateAndTime.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintCurrentDateAndTime\obj\Debug\PrintCurrentDateAndTime.pdb

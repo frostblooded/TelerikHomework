@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb

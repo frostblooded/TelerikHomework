@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\WorkDays\bin\Debug\WorkDays.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\WorkDays\bin\Debug\WorkDays.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\WorkDays\obj\Debug\WorkDays.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\WorkDays\obj\Debug\WorkDays.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\WorkDays\obj\Debug\WorkDays.pdb
