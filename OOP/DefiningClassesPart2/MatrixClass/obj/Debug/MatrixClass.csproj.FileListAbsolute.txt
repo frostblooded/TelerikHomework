@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\MatrixClass\bin\Debug\MatrixClass.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\MatrixClass\bin\Debug\MatrixClass.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\MatrixClass\obj\Debug\MatrixClass.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\MatrixClass\obj\Debug\MatrixClass.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\MatrixClass\obj\Debug\MatrixClass.pdb

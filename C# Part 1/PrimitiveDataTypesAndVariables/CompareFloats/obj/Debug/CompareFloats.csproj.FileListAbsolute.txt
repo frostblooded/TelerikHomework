@@ -1,0 +1,5 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CompareFloats\bin\Debug\CompareFloats.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CompareFloats\bin\Debug\CompareFloats.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CompareFloats\bin\Debug\CompareFloats.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CompareFloats\obj\Debug\CompareFloats.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\CompareFloats\obj\Debug\CompareFloats.pdb

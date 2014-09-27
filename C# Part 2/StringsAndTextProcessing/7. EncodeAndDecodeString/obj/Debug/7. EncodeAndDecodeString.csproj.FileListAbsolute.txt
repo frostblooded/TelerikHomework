@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\7. EncodeAndDecodeString\bin\Debug\_7.EncodeAndDecodeString.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\7. EncodeAndDecodeString\bin\Debug\_7.EncodeAndDecodeString.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\7. EncodeAndDecodeString\bin\Debug\_7.EncodeAndDecodeString.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\7. EncodeAndDecodeString\obj\Debug\7. EncodeAndDecodeString.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\7. EncodeAndDecodeString\obj\Debug\_7.EncodeAndDecodeString.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\7. EncodeAndDecodeString\obj\Debug\_7.EncodeAndDecodeString.pdb

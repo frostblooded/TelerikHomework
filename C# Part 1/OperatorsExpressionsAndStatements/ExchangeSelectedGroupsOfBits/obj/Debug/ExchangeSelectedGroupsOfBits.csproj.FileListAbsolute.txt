@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\ExchangeSelectedGroupsOfBits\bin\Debug\ExchangeSelectedGroupsOfBits.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\ExchangeSelectedGroupsOfBits\bin\Debug\ExchangeSelectedGroupsOfBits.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\ExchangeSelectedGroupsOfBits\bin\Debug\ExchangeSelectedGroupsOfBits.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\ExchangeSelectedGroupsOfBits\obj\Debug\ExchangeSelectedGroupsOfBits.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\ExchangeSelectedGroupsOfBits\obj\Debug\ExchangeSelectedGroupsOfBits.pdb

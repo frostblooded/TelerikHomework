@@ -1,0 +1,21 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\TelerikHomeworkArrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\bin\Debug\InitializeArrayFourTimesTheIndex.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\InitializeArrayFourTimesTheIndex\obj\Debug\InitializeArrayFourTimesTheIndex.csprojResolveAssemblyReference.cache

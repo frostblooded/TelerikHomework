@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\SequenceOfNumbers\bin\Debug\SequenceOfNumbers.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\SequenceOfNumbers\bin\Debug\SequenceOfNumbers.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\SequenceOfNumbers\bin\Debug\SequenceOfNumbers.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\SequenceOfNumbers\obj\Debug\SequenceOfNumbers.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\UsingClassesAndObjects\SequenceOfNumbers\obj\Debug\SequenceOfNumbers.pdb

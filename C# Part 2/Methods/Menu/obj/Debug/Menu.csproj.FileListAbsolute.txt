@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\Menu\bin\Debug\Menu.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\Menu\bin\Debug\Menu.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\Menu\bin\Debug\Menu.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\Menu\obj\Debug\Menu.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\Menu\obj\Debug\Menu.pdb

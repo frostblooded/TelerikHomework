@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\BitAtPosition\bin\Debug\BitAtPosition.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\BitAtPosition\bin\Debug\BitAtPosition.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\BitAtPosition\bin\Debug\BitAtPosition.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\BitAtPosition\obj\Debug\BitAtPosition.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\BitAtPosition\obj\Debug\BitAtPosition.pdb

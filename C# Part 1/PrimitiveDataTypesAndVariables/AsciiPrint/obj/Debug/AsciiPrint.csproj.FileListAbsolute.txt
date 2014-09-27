@@ -1,0 +1,5 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\AsciiPrint\bin\Debug\AsciiPrint.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\AsciiPrint\bin\Debug\AsciiPrint.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\AsciiPrint\bin\Debug\AsciiPrint.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\AsciiPrint\obj\Debug\AsciiPrint.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\AsciiPrint\obj\Debug\AsciiPrint.pdb

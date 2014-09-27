@@ -1,0 +1,12 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\SelectionSort\obj\Debug\SelectionSort.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\SelectionSort\obj\Debug\SelectionSort.pdb

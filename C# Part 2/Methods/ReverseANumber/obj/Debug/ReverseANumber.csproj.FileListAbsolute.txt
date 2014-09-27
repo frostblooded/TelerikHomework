@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\ReverseANumber\bin\Debug\ReverseANumber.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\ReverseANumber\bin\Debug\ReverseANumber.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\ReverseANumber\bin\Debug\ReverseANumber.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\ReverseANumber\obj\Debug\ReverseANumber.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\ReverseANumber\obj\Debug\ReverseANumber.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\ReverseANumber\obj\Debug\ReverseANumber.pdb

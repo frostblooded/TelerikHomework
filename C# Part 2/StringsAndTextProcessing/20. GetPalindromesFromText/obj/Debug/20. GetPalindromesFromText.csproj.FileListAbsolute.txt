@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\20. GetPalindromesFromText\bin\Debug\_20.GetPalindromesFromText.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\20. GetPalindromesFromText\obj\Debug\20. GetPalindromesFromText.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\20. GetPalindromesFromText\bin\Debug\_20.GetPalindromesFromText.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\20. GetPalindromesFromText\bin\Debug\_20.GetPalindromesFromText.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\20. GetPalindromesFromText\obj\Debug\_20.GetPalindromesFromText.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\20. GetPalindromesFromText\obj\Debug\_20.GetPalindromesFromText.pdb

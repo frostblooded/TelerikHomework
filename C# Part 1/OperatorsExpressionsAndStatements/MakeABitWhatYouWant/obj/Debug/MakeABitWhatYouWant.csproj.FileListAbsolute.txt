@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\MakeABitWhatYouWant\bin\Debug\MakeABitWhatYouWant.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\MakeABitWhatYouWant\bin\Debug\MakeABitWhatYouWant.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\MakeABitWhatYouWant\bin\Debug\MakeABitWhatYouWant.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\MakeABitWhatYouWant\obj\Debug\MakeABitWhatYouWant.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 3\MakeABitWhatYouWant\obj\Debug\MakeABitWhatYouWant.pdb

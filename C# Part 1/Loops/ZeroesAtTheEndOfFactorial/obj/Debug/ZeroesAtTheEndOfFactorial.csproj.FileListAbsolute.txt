@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\ZeroesAtTheEndOfFactorial\bin\Debug\ZeroesAtTheEndOfFactorial.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\ZeroesAtTheEndOfFactorial\bin\Debug\ZeroesAtTheEndOfFactorial.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\ZeroesAtTheEndOfFactorial\bin\Debug\ZeroesAtTheEndOfFactorial.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\ZeroesAtTheEndOfFactorial\obj\Debug\ZeroesAtTheEndOfFactorial.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\ZeroesAtTheEndOfFactorial\obj\Debug\ZeroesAtTheEndOfFactorial.pdb

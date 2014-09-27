@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\6. FillWithStars\bin\Debug\_6.FillWithStars.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\6. FillWithStars\bin\Debug\_6.FillWithStars.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\6. FillWithStars\bin\Debug\_6.FillWithStars.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\6. FillWithStars\obj\Debug\6. FillWithStars.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\6. FillWithStars\obj\Debug\_6.FillWithStars.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\6. FillWithStars\obj\Debug\_6.FillWithStars.pdb

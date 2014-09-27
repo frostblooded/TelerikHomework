@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateSum\bin\Debug\CalculateSum.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateSum\bin\Debug\CalculateSum.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateSum\bin\Debug\CalculateSum.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateSum\obj\Debug\CalculateSum.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateSum\obj\Debug\CalculateSum.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\CalculateSum\obj\Debug\CalculateSum.csprojResolveAssemblyReference.cache

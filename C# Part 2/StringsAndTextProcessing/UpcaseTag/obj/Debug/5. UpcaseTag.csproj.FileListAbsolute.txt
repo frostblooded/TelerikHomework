@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\UpcaseTag\bin\Debug\UpcaseTag.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\UpcaseTag\bin\Debug\UpcaseTag.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\UpcaseTag\bin\Debug\UpcaseTag.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\UpcaseTag\obj\Debug\UpcaseTag.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\UpcaseTag\obj\Debug\UpcaseTag.pdb

@@ -1,0 +1,12 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\MaximalIncreasingSequenceInArray\bin\Debug\MaximalIncreasingSequenceInArray.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\MaximalIncreasingSequenceInArray\bin\Debug\MaximalIncreasingSequenceInArray.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\MaximalIncreasingSequenceInArray\bin\Debug\MaximalIncreasingSequenceInArray.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\MaximalIncreasingSequenceInArray\obj\Debug\MaximalIncreasingSequenceInArray.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\MaximalIncreasingSequenceInArray\obj\Debug\MaximalIncreasingSequenceInArray.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkArrays\MaximalIncreasingSequenceInArray\obj\Debug\MaximalIncreasingSequenceInArray.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\MaximalIncreasingSequenceInArray\bin\Debug\MaximalIncreasingSequenceInArray.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\MaximalIncreasingSequenceInArray\bin\Debug\MaximalIncreasingSequenceInArray.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\MaximalIncreasingSequenceInArray\bin\Debug\MaximalIncreasingSequenceInArray.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\MaximalIncreasingSequenceInArray\obj\Debug\MaximalIncreasingSequenceInArray.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\MaximalIncreasingSequenceInArray\obj\Debug\MaximalIncreasingSequenceInArray.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\MaximalIncreasingSequenceInArray\obj\Debug\MaximalIncreasingSequenceInArray.pdb

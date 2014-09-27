@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\Add6Minutes\bin\Debug\Add6Minutes.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\Add6Minutes\obj\Debug\Add6Minutes.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\Add6Minutes\bin\Debug\Add6Minutes.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\Add6Minutes\bin\Debug\Add6Minutes.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\Add6Minutes\obj\Debug\Add6Minutes.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\Add6Minutes\obj\Debug\Add6Minutes.pdb

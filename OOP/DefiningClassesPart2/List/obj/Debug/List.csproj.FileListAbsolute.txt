@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\List\bin\Debug\List.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\List\bin\Debug\List.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\List\bin\Debug\List.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\List\obj\Debug\List.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\List\obj\Debug\List.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\List\obj\Debug\List.csprojResolveAssemblyReference.cache

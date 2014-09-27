@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\WriteFileToConsole\bin\Debug\WriteFileToConsole.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\WriteFileToConsole\bin\Debug\WriteFileToConsole.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\WriteFileToConsole\bin\Debug\WriteFileToConsole.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\WriteFileToConsole\obj\Debug\WriteFileToConsole.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\WriteFileToConsole\obj\Debug\WriteFileToConsole.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\WriteFileToConsole\obj\Debug\WriteFileToConsole.pdb

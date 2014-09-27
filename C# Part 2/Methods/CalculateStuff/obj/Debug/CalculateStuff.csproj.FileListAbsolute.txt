@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CalculateStuff\bin\Debug\CalculateStuff.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CalculateStuff\bin\Debug\CalculateStuff.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CalculateStuff\bin\Debug\CalculateStuff.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CalculateStuff\obj\Debug\CalculateStuff.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CalculateStuff\obj\Debug\CalculateStuff.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CalculateStuff\obj\Debug\CalculateStuff.pdb

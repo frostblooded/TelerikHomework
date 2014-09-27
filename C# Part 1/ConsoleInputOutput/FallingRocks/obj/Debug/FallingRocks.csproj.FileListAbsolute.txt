@@ -1,0 +1,15 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 1\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb

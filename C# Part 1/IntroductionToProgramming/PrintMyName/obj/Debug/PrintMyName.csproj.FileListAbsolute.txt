@@ -1,0 +1,5 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\PrintMyName\obj\Debug\PrintMyName.pdb

@@ -1,0 +1,6 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.csprojResolveAssemblyReference.cache
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.pdb

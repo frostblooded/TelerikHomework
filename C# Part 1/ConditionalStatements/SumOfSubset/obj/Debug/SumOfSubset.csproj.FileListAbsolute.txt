@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\SumOfSubset\bin\Debug\SumOfSubset.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\SumOfSubset\bin\Debug\SumOfSubset.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\SumOfSubset\bin\Debug\SumOfSubset.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\SumOfSubset\obj\Debug\SumOfSubset.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\SumOfSubset\obj\Debug\SumOfSubset.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\SumOfSubset\obj\Debug\SumOfSubset.pdb

@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\FirstNumberInArrayBiggerThanAdjacent\bin\Debug\FirstNumberInArrayBiggerThanAdjacent.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\FirstNumberInArrayBiggerThanAdjacent\bin\Debug\FirstNumberInArrayBiggerThanAdjacent.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\FirstNumberInArrayBiggerThanAdjacent\bin\Debug\FirstNumberInArrayBiggerThanAdjacent.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\FirstNumberInArrayBiggerThanAdjacent\obj\Debug\FirstNumberInArrayBiggerThanAdjacent.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\FirstNumberInArrayBiggerThanAdjacent\obj\Debug\FirstNumberInArrayBiggerThanAdjacent.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\FirstNumberInArrayBiggerThanAdjacent\obj\Debug\FirstNumberInArrayBiggerThanAdjacent.pdb

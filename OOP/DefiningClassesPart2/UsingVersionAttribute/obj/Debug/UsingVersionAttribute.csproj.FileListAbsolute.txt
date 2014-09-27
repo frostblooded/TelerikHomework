@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\UsingVersionAttribute\bin\Debug\UsingVersionAttribute.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\UsingVersionAttribute\bin\Debug\UsingVersionAttribute.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\UsingVersionAttribute\bin\Debug\UsingVersionAttribute.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\UsingVersionAttribute\obj\Debug\UsingVersionAttribute.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\UsingVersionAttribute\obj\Debug\UsingVersionAttribute.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\UsingVersionAttribute\obj\Debug\UsingVersionAttribute.pdb

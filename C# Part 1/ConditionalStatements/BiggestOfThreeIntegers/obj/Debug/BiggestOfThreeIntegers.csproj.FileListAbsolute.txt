@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\BiggestOfThreeIntegers\bin\Debug\BiggestOfThreeIntegers.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\BiggestOfThreeIntegers\bin\Debug\BiggestOfThreeIntegers.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\BiggestOfThreeIntegers\bin\Debug\BiggestOfThreeIntegers.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\BiggestOfThreeIntegers\obj\Debug\BiggestOfThreeIntegers.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\BiggestOfThreeIntegers\obj\Debug\BiggestOfThreeIntegers.pdb

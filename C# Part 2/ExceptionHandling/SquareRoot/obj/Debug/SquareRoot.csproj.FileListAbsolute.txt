@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb

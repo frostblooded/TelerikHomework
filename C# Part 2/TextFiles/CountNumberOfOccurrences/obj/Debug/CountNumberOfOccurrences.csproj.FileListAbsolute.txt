@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\CountNumberOfOccurrences\bin\Debug\CountNumberOfOccurrences.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\CountNumberOfOccurrences\obj\Debug\CountNumberOfOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\CountNumberOfOccurrences\bin\Debug\CountNumberOfOccurrences.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\CountNumberOfOccurrences\bin\Debug\CountNumberOfOccurrences.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\CountNumberOfOccurrences\obj\Debug\CountNumberOfOccurrences.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\CountNumberOfOccurrences\obj\Debug\CountNumberOfOccurrences.pdb

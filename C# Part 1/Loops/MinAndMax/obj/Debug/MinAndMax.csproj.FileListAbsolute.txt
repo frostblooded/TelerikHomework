@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\MinAndMax\bin\Debug\MinAndMax.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\MinAndMax\bin\Debug\MinAndMax.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\MinAndMax\bin\Debug\MinAndMax.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\MinAndMax\obj\Debug\MinAndMax.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\MinAndMax\obj\Debug\MinAndMax.pdb

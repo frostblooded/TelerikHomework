@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\PrintNotDivisableBy3And7\bin\Debug\PrintNotDivisableBy3And7.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\PrintNotDivisableBy3And7\bin\Debug\PrintNotDivisableBy3And7.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\PrintNotDivisableBy3And7\bin\Debug\PrintNotDivisableBy3And7.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\PrintNotDivisableBy3And7\obj\Debug\PrintNotDivisableBy3And7.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\PrintNotDivisableBy3And7\obj\Debug\PrintNotDivisableBy3And7.pdb

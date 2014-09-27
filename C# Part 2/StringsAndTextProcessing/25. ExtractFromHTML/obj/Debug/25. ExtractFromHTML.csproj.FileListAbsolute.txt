@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\25. ExtractFromHTML\bin\Debug\_25.ExtractFromHTML.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\25. ExtractFromHTML\obj\Debug\_25.ExtractFromHTML.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\25. ExtractFromHTML\obj\Debug\_25.ExtractFromHTML.pdb

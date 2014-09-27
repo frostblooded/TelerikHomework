@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(1c)FillAndPrintMatrix\bin\Debug\(1c)FillAndPrintMatrix.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(1c)FillAndPrintMatrix\bin\Debug\(1c)FillAndPrintMatrix.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(1c)FillAndPrintMatrix\bin\Debug\(1c)FillAndPrintMatrix.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(1c)FillAndPrintMatrix\obj\Debug\(1c)FillAndPrintMatrix.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(1c)FillAndPrintMatrix\obj\Debug\(1c)FillAndPrintMatrix.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\MultidimensionalArrays\(1c)FillAndPrintMatrix\obj\Debug\(1c)FillAndPrintMatrix.pdb

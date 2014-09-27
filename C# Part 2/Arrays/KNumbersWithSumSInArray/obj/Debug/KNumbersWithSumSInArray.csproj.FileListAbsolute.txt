@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\KNumbersWithSumSInArray\bin\Debug\KNumbersWithSumSInArray.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\KNumbersWithSumSInArray\bin\Debug\KNumbersWithSumSInArray.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\KNumbersWithSumSInArray\bin\Debug\KNumbersWithSumSInArray.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\KNumbersWithSumSInArray\obj\Debug\KNumbersWithSumSInArray.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\KNumbersWithSumSInArray\obj\Debug\KNumbersWithSumSInArray.pdb

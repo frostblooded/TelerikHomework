@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\ConvertAnySystem\bin\Debug\ConvertAnySystem.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\ConvertAnySystem\bin\Debug\ConvertAnySystem.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\ConvertAnySystem\bin\Debug\ConvertAnySystem.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\ConvertAnySystem\obj\Debug\ConvertAnySystem.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\ConvertAnySystem\obj\Debug\ConvertAnySystem.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\ConvertAnySystem\obj\Debug\ConvertAnySystem.pdb

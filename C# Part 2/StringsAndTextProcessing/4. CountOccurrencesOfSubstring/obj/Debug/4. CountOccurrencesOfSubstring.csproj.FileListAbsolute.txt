@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\4. CountOccurrencesOfSubstring\bin\Debug\_4.CountOccurrencesOfSubstring.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\4. CountOccurrencesOfSubstring\bin\Debug\_4.CountOccurrencesOfSubstring.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\4. CountOccurrencesOfSubstring\bin\Debug\_4.CountOccurrencesOfSubstring.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\4. CountOccurrencesOfSubstring\obj\Debug\_4.CountOccurrencesOfSubstring.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\4. CountOccurrencesOfSubstring\obj\Debug\_4.CountOccurrencesOfSubstring.pdb

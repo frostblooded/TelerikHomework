@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\ReadCompanyInfo\bin\Debug\ReadCompanyInfo.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\ReadCompanyInfo\bin\Debug\ReadCompanyInfo.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\ReadCompanyInfo\bin\Debug\ReadCompanyInfo.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\ReadCompanyInfo\obj\Debug\ReadCompanyInfo.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework4\ReadCompanyInfo\obj\Debug\ReadCompanyInfo.pdb

@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\12. ExctractFromURL\bin\Debug\_12.ExctractFromURL.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\12. ExctractFromURL\bin\Debug\_12.ExctractFromURL.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\12. ExctractFromURL\bin\Debug\_12.ExctractFromURL.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\12. ExctractFromURL\obj\Debug\12. ExctractFromURL.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\12. ExctractFromURL\obj\Debug\_12.ExctractFromURL.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\12. ExctractFromURL\obj\Debug\_12.ExctractFromURL.pdb

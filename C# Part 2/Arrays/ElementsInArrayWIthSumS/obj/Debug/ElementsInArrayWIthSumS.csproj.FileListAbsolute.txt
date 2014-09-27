@@ -1,0 +1,12 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\ElementsInArrayWIthSumS\bin\Debug\ElementsInArrayWIthSumS.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\ElementsInArrayWIthSumS\bin\Debug\ElementsInArrayWIthSumS.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\ElementsInArrayWIthSumS\bin\Debug\ElementsInArrayWIthSumS.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\ElementsInArrayWIthSumS\obj\Debug\ElementsInArrayWIthSumS.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\ElementsInArrayWIthSumS\obj\Debug\ElementsInArrayWIthSumS.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\ElementsInArrayWIthSumS\obj\Debug\ElementsInArrayWIthSumS.pdb
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\Arrays\ElementsInArrayWIthSumS\bin\Debug\ElementsInArrayWIthSumS.exe.config
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\Arrays\ElementsInArrayWIthSumS\obj\Debug\ElementsInArrayWIthSumS.exe
+C:\Users\frost_000\Dropbox\Home Programming\Telerik\Homework\C# Part 2\Arrays\ElementsInArrayWIthSumS\obj\Debug\ElementsInArrayWIthSumS.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\ElementsInArrayWIthSumS\bin\Debug\ElementsInArrayWIthSumS.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\ElementsInArrayWIthSumS\obj\Debug\ElementsInArrayWIthSumS.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Arrays\ElementsInArrayWIthSumS\obj\Debug\ElementsInArrayWIthSumS.pdb

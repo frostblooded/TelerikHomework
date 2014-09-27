@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\Signed16BitIntegerRepresentation\bin\Debug\Signed16BitIntegerRepresentation.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\Signed16BitIntegerRepresentation\bin\Debug\Signed16BitIntegerRepresentation.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\Signed16BitIntegerRepresentation\bin\Debug\Signed16BitIntegerRepresentation.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\Signed16BitIntegerRepresentation\obj\Debug\Signed16BitIntegerRepresentation.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\Signed16BitIntegerRepresentation\obj\Debug\Signed16BitIntegerRepresentation.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\NumeralSystems\Signed16BitIntegerRepresentation\obj\Debug\Signed16BitIntegerRepresentation.csprojResolveAssemblyReference.cache

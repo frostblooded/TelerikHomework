@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\11. PrintNumberInDifferentWays\bin\Debug\_11.PrintNumberInDifferentWays.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\11. PrintNumberInDifferentWays\bin\Debug\_11.PrintNumberInDifferentWays.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\11. PrintNumberInDifferentWays\bin\Debug\_11.PrintNumberInDifferentWays.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\11. PrintNumberInDifferentWays\obj\Debug\_11.PrintNumberInDifferentWays.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\11. PrintNumberInDifferentWays\obj\Debug\_11.PrintNumberInDifferentWays.pdb

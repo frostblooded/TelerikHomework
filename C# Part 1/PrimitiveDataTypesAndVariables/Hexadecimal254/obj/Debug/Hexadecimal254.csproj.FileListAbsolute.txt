@@ -1,0 +1,6 @@
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\Hexadecimal254\bin\Debug\Hexadecimal254.exe.config
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\Hexadecimal254\bin\Debug\Hexadecimal254.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\Hexadecimal254\bin\Debug\Hexadecimal254.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\Hexadecimal254\obj\Debug\Hexadecimal254.exe
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\Hexadecimal254\obj\Debug\Hexadecimal254.pdb
+C:\Users\niki\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik Homework 2\Hexadecimal254\obj\Debug\Hexadecimal254.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CountOfAppearancesOfANumberInAnArray\bin\Debug\CountOfAppearancesOfANumberInAnArray.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CountOfAppearancesOfANumberInAnArray\bin\Debug\CountOfAppearancesOfANumberInAnArray.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CountOfAppearancesOfANumberInAnArray\bin\Debug\CountOfAppearancesOfANumberInAnArray.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CountOfAppearancesOfANumberInAnArray\obj\Debug\CountOfAppearancesOfANumberInAnArray.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CountOfAppearancesOfANumberInAnArray\obj\Debug\CountOfAppearancesOfANumberInAnArray.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\CountOfAppearancesOfANumberInAnArray\obj\Debug\CountOfAppearancesOfANumberInAnArray.pdb

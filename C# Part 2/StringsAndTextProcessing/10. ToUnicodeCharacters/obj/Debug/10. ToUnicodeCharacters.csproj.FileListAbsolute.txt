@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\10. ToUnicodeCharacters\bin\Debug\_10.ToUnicodeCharacters.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\10. ToUnicodeCharacters\bin\Debug\_10.ToUnicodeCharacters.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\10. ToUnicodeCharacters\bin\Debug\_10.ToUnicodeCharacters.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\10. ToUnicodeCharacters\obj\Debug\_10.ToUnicodeCharacters.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\StringsAndTextProcessing\10. ToUnicodeCharacters\obj\Debug\_10.ToUnicodeCharacters.pdb

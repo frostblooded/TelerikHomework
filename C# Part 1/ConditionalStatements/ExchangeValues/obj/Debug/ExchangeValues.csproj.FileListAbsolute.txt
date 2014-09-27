@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\ExchangeValues\obj\Debug\ExchangeValues.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\ExchangeValues\obj\Debug\ExchangeValues.pdb

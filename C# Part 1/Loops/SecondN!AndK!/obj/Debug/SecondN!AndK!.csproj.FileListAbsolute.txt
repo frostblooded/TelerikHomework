@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\SecondN!AndK!\bin\Debug\SecondN!AndK!.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\SecondN!AndK!\bin\Debug\SecondN!AndK!.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\SecondN!AndK!\bin\Debug\SecondN!AndK!.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\SecondN!AndK!\obj\Debug\SecondN!AndK!.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomeworkLoops\SecondN!AndK!\obj\Debug\SecondN!AndK!.pdb

@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\VariationsOfKDistinctEle\bin\Debug\VariationsOfKDistinctEle.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\VariationsOfKDistinctEle\obj\Debug\VariationsOfKDistinctEle.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\VariationsOfKDistinctEle\obj\Debug\VariationsOfKDistinctEle.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\VariationsOfKDistinctEle\bin\Debug\VariationsOfKDistinctEle.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\Telerik\Homework\TelerikHomeworkArrays\VariationsOfKDistinctEle\bin\Debug\VariationsOfKDistinctEle.pdb

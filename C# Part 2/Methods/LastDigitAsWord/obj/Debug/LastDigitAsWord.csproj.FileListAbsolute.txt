@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\LastDigitAsWord\bin\Debug\LastDigitAsWord.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\LastDigitAsWord\bin\Debug\LastDigitAsWord.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\LastDigitAsWord\bin\Debug\LastDigitAsWord.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\LastDigitAsWord\obj\Debug\LastDigitAsWord.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\Methods\LastDigitAsWord\obj\Debug\LastDigitAsWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\PointsIn3DSpace\bin\Debug\PointsIn3DSpace.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\PointsIn3DSpace\bin\Debug\PointsIn3DSpace.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\PointsIn3DSpace\bin\Debug\PointsIn3DSpace.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\PointsIn3DSpace\obj\Debug\PointsIn3DSpace.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\PointsIn3DSpace\obj\Debug\PointsIn3DSpace.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\DefiningClassesPart2\PointsIn3DSpace\obj\Debug\PointsIn3DSpace.csprojResolveAssemblyReference.cache

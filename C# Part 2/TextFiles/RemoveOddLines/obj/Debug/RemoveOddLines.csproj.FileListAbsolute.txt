@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\RemoveOddLines\bin\Debug\RemoveOddLines.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\RemoveOddLines\bin\Debug\RemoveOddLines.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\RemoveOddLines\bin\Debug\RemoveOddLines.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\RemoveOddLines\obj\Debug\RemoveOddLines.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\C# Part 2\TextFiles\RemoveOddLines\obj\Debug\RemoveOddLines.pdb

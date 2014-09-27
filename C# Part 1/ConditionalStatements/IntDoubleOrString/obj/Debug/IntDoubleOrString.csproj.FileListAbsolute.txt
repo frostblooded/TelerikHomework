@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe.config
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\IntDoubleOrString\bin\Debug\IntDoubleOrString.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\IntDoubleOrString\bin\Debug\IntDoubleOrString.pdb
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\IntDoubleOrString\obj\Debug\IntDoubleOrString.exe
+C:\Users\frost_000\Dropbox\Other Programming Stuff\Home Programming\Visual Studio 2013\TelerikHomework5\IntDoubleOrString\obj\Debug\IntDoubleOrString.pdb
