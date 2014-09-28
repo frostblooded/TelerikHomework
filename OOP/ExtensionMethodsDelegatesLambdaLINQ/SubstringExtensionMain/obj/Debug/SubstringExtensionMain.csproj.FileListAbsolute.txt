@@ -1,6 +1,0 @@
-C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtensionMain\bin\Debug\SubstringExtensionMain.exe.config
-C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtensionMain\bin\Debug\SubstringExtensionMain.exe
-C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtensionMain\bin\Debug\SubstringExtensionMain.pdb
-C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtensionMain\obj\Debug\SubstringExtensionMain.csprojResolveAssemblyReference.cache
-C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtensionMain\obj\Debug\SubstringExtensionMain.exe
-C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtensionMain\obj\Debug\SubstringExtensionMain.pdb
