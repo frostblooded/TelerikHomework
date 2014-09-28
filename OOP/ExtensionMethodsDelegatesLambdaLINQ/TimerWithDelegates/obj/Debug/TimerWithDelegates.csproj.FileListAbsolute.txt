@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerWithDelegates\bin\Debug\TimerWithDelegates.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerWithDelegates\obj\Debug\TimerWithDelegates.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerWithDelegates\bin\Debug\TimerWithDelegates.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerWithDelegates\bin\Debug\TimerWithDelegates.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerWithDelegates\obj\Debug\TimerWithDelegates.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerWithDelegates\obj\Debug\TimerWithDelegates.pdb
