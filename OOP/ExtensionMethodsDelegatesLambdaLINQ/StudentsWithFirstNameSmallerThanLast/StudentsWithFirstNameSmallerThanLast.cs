@@ -44,6 +44,13 @@ namespace StudentsWithFirstNameSmallerThanLast
                 new Student
                 {
                     FirstName = "Georgi",
+                    LastName = "Danchev",
+                    Age = 20
+                },
+
+                new Student
+                {
+                    FirstName = "Georgi",
                     LastName = "Nedkov",
                     Age = 21
                 },
@@ -54,6 +61,9 @@ namespace StudentsWithFirstNameSmallerThanLast
             Console.WriteLine();
             Console.WriteLine("Students between 18 and 24 years:");
             GetStudentsBetween18And24(students).ForEach(Console.WriteLine);
+            Console.WriteLine();
+            Console.WriteLine("All students ordered by name:");
+            students.OrderBy(st => st.FirstName).ThenBy(st => st.LastName).ForEach(Console.WriteLine);
         }
     }
 }
