@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CE64DCE3-9B3C-4E6B-B80C-7B7A6151AD88}</ProjectGuid>
+    <ProjectGuid>{6688B234-6DA5-47B9-9DE5-2584BAC378E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SubstringExtension</RootNamespace>
-    <AssemblyName>SubstringExtension</AssemblyName>
+    <RootNamespace>SubstringExtensionMain</RootNamespace>
+    <AssemblyName>SubstringExtensionMain</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="SubstringExtension.cs" />
+    <Compile Include="SubstringExtensionMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
