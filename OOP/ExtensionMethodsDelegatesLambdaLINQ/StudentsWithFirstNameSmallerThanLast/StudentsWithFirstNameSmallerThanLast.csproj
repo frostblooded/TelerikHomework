@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IEnumerableExtension.cs" />
+    <Compile Include="Student.cs" />
     <Compile Include="StudentsWithFirstNameSmallerThanLast.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
