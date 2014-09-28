@@ -53,7 +53,7 @@ namespace StudentsWithFirstNameSmallerThanLast
 
                 new Student
                 {
-                    FirstName = "Petur",
+                    FirstName = "Petar",
                     LastName = "Petrov",
                     Age = 25
                 },
@@ -79,7 +79,10 @@ namespace StudentsWithFirstNameSmallerThanLast
             Console.WriteLine("Students between 18 and 24 years:");
             GetStudentsBetween18And24(students).ForEach(Console.WriteLine);
             Console.WriteLine();
-            Console.WriteLine("All students sorted by name:");
+            Console.WriteLine("All students sorted by name (with extension methods)");
+            students.OrderBy(st => st.FirstName).ThenBy(st => st.LastName).ForEach(Console.WriteLine);
+            Console.WriteLine();
+            Console.WriteLine("All students sorted by name (with LINQ):");
             SortStudentsByFirstAndThenByLastName(students).ForEach(Console.WriteLine);
         }
     }
