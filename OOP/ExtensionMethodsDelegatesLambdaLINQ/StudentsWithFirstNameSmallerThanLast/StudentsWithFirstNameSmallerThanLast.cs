@@ -8,12 +8,29 @@ namespace StudentsWithFirstNameSmallerThanLast
     {
         static IEnumerable<Student> GetStudentsWithFirstNameSmaller(Student[] students)
         {
-            return students.Where(st => st.FirstName.CompareTo(st.LastName) < 0);
+            var comparedStudents = 
+                from student in students
+                where student.FirstName.CompareTo(student.LastName) < 0
+                select student;
+            return comparedStudents;
         }
 
         static IEnumerable<Student> GetStudentsBetween18And24(Student[] students)
         {
-            return students.Where(st => st.Age >= 18 && st.Age <= 24);
+            var studentsWithAgeWithingRange =
+                from student in students
+                where student.Age >= 18 && student.Age <= 24
+                select student;
+            return studentsWithAgeWithingRange;
+        }
+
+        static IEnumerable<Student> SortStudentsByFirstAndThenByLastName(Student[] students)
+        {
+            var sortedStudents =
+                from student in students
+                orderby student.FirstName, student.LastName
+                select student;
+            return sortedStudents;
         }
 
         static void Main()
@@ -62,8 +79,8 @@ namespace StudentsWithFirstNameSmallerThanLast
             Console.WriteLine("Students between 18 and 24 years:");
             GetStudentsBetween18And24(students).ForEach(Console.WriteLine);
             Console.WriteLine();
-            Console.WriteLine("All students ordered by name:");
-            students.OrderBy(st => st.FirstName).ThenBy(st => st.LastName).ForEach(Console.WriteLine);
+            Console.WriteLine("All students sorted by name:");
+            SortStudentsByFirstAndThenByLastName(students).ForEach(Console.WriteLine);
         }
     }
 }
