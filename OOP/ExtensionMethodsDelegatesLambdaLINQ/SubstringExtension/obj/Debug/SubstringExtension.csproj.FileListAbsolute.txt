@@ -1,1 +1,0 @@
-C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\SubstringExtension\bin\Debug\SubstringExtension.exe.config
