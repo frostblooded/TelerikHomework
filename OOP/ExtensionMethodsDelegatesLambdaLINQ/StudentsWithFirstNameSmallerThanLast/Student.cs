@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace StudentsWithFirstNameSmallerThanLast
+﻿namespace StudentsWithFirstNameSmallerThanLast
 {
     public class Student
     {
