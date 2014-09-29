@@ -16,11 +16,7 @@ namespace Students
                 new Student("Histo", "Ezekiev", 2)
             };
 
-            var studentsFromSecondGroup =
-                from st in students
-                where st.GroupNumber == 2
-                orderby st.FirstName
-                select st;
+            var studentsFromSecondGroup = students.Where(st => st.GroupNumber == 2).OrderBy(st => st.FirstName);
 
             foreach (var student in studentsFromSecondGroup)
             {
