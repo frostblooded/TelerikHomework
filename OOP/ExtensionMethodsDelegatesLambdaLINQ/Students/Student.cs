@@ -11,6 +11,12 @@ namespace Students
             this.GroupNumber = groupNumber;
         }
 
+        public Student(string firstName, string lastName, int groupNumber, string email)
+            :this(firstName, lastName, groupNumber)
+        {
+            this.Email = email;
+        }
+
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
         public string FN { get; private set; }

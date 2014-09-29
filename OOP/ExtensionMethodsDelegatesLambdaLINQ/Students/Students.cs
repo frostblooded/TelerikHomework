@@ -10,15 +10,18 @@ namespace Students
         {
             List<Student> students = new List<Student>
             {
-                new Student("Nikolay", "Danailov", 1),
-                new Student("Anonio", "Mindov", 1),
-                new Student("Petar", "Petrov", 2),
-                new Student("Histo", "Ezekiev", 2)
+                new Student("Nikolay", "Danailov", 1, "frostblooded@yahoo.com"),
+                new Student("Anonio", "Mindov", 1, "antonio.da@abv.bg"),
+                new Student("Petar", "Petrov", 2, "pesho@gmail.com"),
+                new Student("Histo", "Ezekiev", 2, "histo@abv.bg")
             };
 
-            var studentsFromSecondGroup = students.Where(st => st.GroupNumber == 2).OrderBy(st => st.FirstName);
+            var studentsWithEmailInAbvBg =
+                from student in students
+                where student.Email.Substring(student.Email.IndexOf('@') + 1) == "abv.bg"
+                select student;
 
-            foreach (var student in studentsFromSecondGroup)
+            foreach (var student in studentsWithEmailInAbvBg)
             {
                 Console.WriteLine(student);
             }
