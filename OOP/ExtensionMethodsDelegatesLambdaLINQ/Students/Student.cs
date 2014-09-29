@@ -32,6 +32,12 @@ namespace Students
             this.Marks = marks;
         }
 
+        public Student(string firstName, string lastName, int groupNumber, string email, string tel, List<int> marks, string FN)
+            : this(firstName, lastName, groupNumber, email, tel, marks)
+        {
+            this.FN = FN;
+        }
+
         public string FirstName { get; private set; }
         public string LastName { get; private set; }
         public string FN { get; private set; }
