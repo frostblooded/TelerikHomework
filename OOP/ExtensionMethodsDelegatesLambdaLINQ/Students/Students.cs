@@ -16,18 +16,18 @@ namespace Students
                 new Student("Histo", "Ezekiev", 2, "histo@abv.bg", "144556234", new List<int> { 4, 5, 4, 2, 3, 2 })
             };
 
-            var studentsWithAnA =
-                from student in students
-                where student.Marks.Contains(6)
-                select new
+            var studentsWithAnA = 
+                students
+                .Where(st => MarkCount(st.Marks, 2) == 2)
+                .Select(st => new 
                 {
-                    FirstName = student.FirstName,
-                    Marks = student.Marks
-                };
+                    FullName = st.FirstName + " " + st.LastName,
+                    Marks = st.Marks
+                });
 
             foreach (var student in studentsWithAnA)
             {
-                Console.Write("{0} - Marks: ", student.FirstName);
+                Console.Write("{0} - Marks: ", student.FullName);
 
                 foreach (var mark in student.Marks)
                 {
@@ -36,6 +36,21 @@ namespace Students
 
                 Console.WriteLine();
             }
+        }
+
+        private static int MarkCount(List<int> marks, int searchedMark)
+        {
+            int counter = 0;
+
+            foreach (var mark in marks)
+            {
+                if (mark == searchedMark)
+                {
+                    counter++;
+                }
+            }
+
+            return counter;
         }
     }
 }
