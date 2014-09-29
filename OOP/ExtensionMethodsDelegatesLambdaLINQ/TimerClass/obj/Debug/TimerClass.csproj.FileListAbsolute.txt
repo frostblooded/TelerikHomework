@@ -1,0 +1,6 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerClass\bin\Debug\TimerClass.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerClass\bin\Debug\TimerClass.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerClass\bin\Debug\TimerClass.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerClass\obj\Debug\TimerClass.csprojResolveAssemblyReference.cache
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerClass\obj\Debug\TimerClass.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\TimerClass\obj\Debug\TimerClass.pdb
