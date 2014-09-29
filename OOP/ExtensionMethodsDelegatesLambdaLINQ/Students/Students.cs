@@ -10,20 +10,31 @@ namespace Students
         {
             List<Student> students = new List<Student>
             {
-                new Student("Nikolay", "Danailov", 1, "frostblooded@yahoo.com", "029584950"),
-                new Student("Anonio", "Mindov", 1, "antonio.da@abv.bg", "039543456"),
-                new Student("Petar", "Petrov", 2, "pesho@gmail.com", "024532367"),
-                new Student("Histo", "Ezekiev", 2, "histo@abv.bg", "144556234")
+                new Student("Nikolay", "Danailov", 1, "frostblooded@yahoo.com", "029584950", new List<int> { 6, 6, 5, 6, 4 }),
+                new Student("Anonio", "Mindov", 1, "antonio.da@abv.bg", "039543456", new List<int> { 5, 4, 3, 2, 2 }),
+                new Student("Petar", "Petrov", 2, "pesho@gmail.com", "024532367", new List<int> { 6, 6, 6, 6, 6 }),
+                new Student("Histo", "Ezekiev", 2, "histo@abv.bg", "144556234", new List<int> { 4, 5, 4, 2, 3, 2 })
             };
 
-            var studentsWithTelsFromSofia =
+            var studentsWithAnA =
                 from student in students
-                where student.Tel.Substring(0, 2) == "02"
-                select student;
+                where student.Marks.Contains(6)
+                select new
+                {
+                    FirstName = student.FirstName,
+                    Marks = student.Marks
+                };
 
-            foreach (var student in studentsWithTelsFromSofia)
+            foreach (var student in studentsWithAnA)
             {
-                Console.WriteLine(student);
+                Console.Write("{0} - Marks: ", student.FirstName);
+
+                foreach (var mark in student.Marks)
+                {
+                    Console.Write(mark + " ");
+                }
+
+                Console.WriteLine();
             }
         }
     }
