@@ -7,35 +7,41 @@ namespace Students
     {
         private string tel;
 
-        public Student(string firstName, string lastName, int groupNumber)
+        public Student(string firstName, string lastName)
         {
             this.FirstName = firstName;
             this.LastName = lastName;
-            this.GroupNumber = groupNumber;
         }
 
-        public Student(string firstName, string lastName, int groupNumber, string email)
-            :this(firstName, lastName, groupNumber)
+        public Student(string firstName, string lastName, string email)
+            :this(firstName, lastName)
         {
             this.Email = email;
         }
 
-        public Student(string firstName, string lastName, int groupNumber, string email, string tel)
-            : this(firstName, lastName, groupNumber, email)
+        public Student(string firstName, string lastName, string email, string tel)
+            : this(firstName, lastName, email)
         {
             this.Tel = tel;
         }
 
-        public Student(string firstName, string lastName, int groupNumber, string email, string tel, List<int> marks)
-            : this(firstName, lastName, groupNumber, email, tel)
+        public Student(string firstName, string lastName, string email, string tel, List<int> marks)
+            : this(firstName, lastName, email, tel)
         {
             this.Marks = marks;
         }
 
-        public Student(string firstName, string lastName, int groupNumber, string email, string tel, List<int> marks, string FN)
-            : this(firstName, lastName, groupNumber, email, tel, marks)
+        public Student(string firstName, string lastName, string email, string tel, List<int> marks, string FN)
+            : this(firstName, lastName, email, tel, marks)
         {
             this.FN = FN;
+        }
+
+        public Student(string firstName, string lastName, string email, string tel, List<int> marks, string FN, int groupNumber, string departmentName)
+            : this(firstName, lastName, email, tel, marks, FN)
+        {
+            this.Group.GroupNumber = groupNumber;
+            this.Group.DepartmentName = departmentName;
         }
 
         public string FirstName { get; private set; }
@@ -61,11 +67,11 @@ namespace Students
         }
         public string Email { get; set; }
         public List<int> Marks { get; set; }
-        public int GroupNumber { get; set; }
+        public Group Group { get; set; }
 
         public override string ToString()
         {
-            return this.FirstName + " " + this.LastName + " " + this.GroupNumber;
+            return this.FirstName + " " + this.LastName + " " + this.Group.GroupNumber;
         }
     }
 }
