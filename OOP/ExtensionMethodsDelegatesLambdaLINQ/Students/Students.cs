@@ -18,12 +18,18 @@ namespace Students
 
             var studentsFromMath =
                 from student in students
-                where student.Group.DepartmentName == "Mathematics"
-                select student;
+                group student by student.Group.DepartmentName;
 
-            foreach (var student in studentsFromMath)
+            foreach (var group in studentsFromMath)
             {
-                Console.WriteLine(student);
+                Console.WriteLine(group.Key);
+
+                foreach (var student in group)
+                {
+                    Console.WriteLine("   " + student);
+                }
+
+                Console.WriteLine();
             }
         }
     }

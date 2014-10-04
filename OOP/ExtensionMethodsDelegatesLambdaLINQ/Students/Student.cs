@@ -72,7 +72,7 @@ namespace Students
 
         public override string ToString()
         {
-            return this.FirstName + " " + this.LastName + " " + this.Group.GroupNumber;
+            return this.FirstName + " " + this.LastName;
         }
     }
 }
