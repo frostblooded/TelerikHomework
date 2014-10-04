@@ -1,0 +1,5 @@
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\GetLongestString\bin\Debug\GetLongestString.exe.config
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\GetLongestString\bin\Debug\GetLongestString.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\GetLongestString\bin\Debug\GetLongestString.pdb
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\GetLongestString\obj\Debug\GetLongestString.exe
+C:\Users\frost_000\Dropbox\Telerik\Homework\OOP\ExtensionMethodsDelegatesLambdaLINQ\GetLongestString\obj\Debug\GetLongestString.pdb
