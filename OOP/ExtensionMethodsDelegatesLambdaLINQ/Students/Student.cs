@@ -40,6 +40,7 @@ namespace Students
         public Student(string firstName, string lastName, string email, string tel, List<int> marks, string FN, int groupNumber, string departmentName)
             : this(firstName, lastName, email, tel, marks, FN)
         {
+            this.Group = new Group();
             this.Group.GroupNumber = groupNumber;
             this.Group.DepartmentName = departmentName;
         }

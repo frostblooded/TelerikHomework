@@ -15,6 +15,16 @@ namespace Students
                 new Student("Petar", "Petrov", "pesho@gmail.com", "024532367", new List<int> { 6, 6, 6, 6, 6 }, "231406", 4, "IT"),
                 new Student("Histo", "Ezekiev", "histo@abv.bg", "144556234", new List<int> { 4, 5, 4, 2, 3, 2 }, "231206", 2, "Mathematics")
             };
+
+            var studentsFromMath =
+                from student in students
+                where student.Group.DepartmentName == "Mathematics"
+                select student;
+
+            foreach (var student in studentsFromMath)
+            {
+                Console.WriteLine(student);
+            }
         }
     }
 }
