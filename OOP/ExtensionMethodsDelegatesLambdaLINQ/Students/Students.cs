@@ -16,9 +16,7 @@ namespace Students
                 new Student("Histo", "Ezekiev", "histo@abv.bg", "144556234", new List<int> { 4, 5, 4, 2, 3, 2 }, "231206", 2, "Mathematics")
             };
 
-            var studentsFromMath =
-                from student in students
-                group student by student.Group.DepartmentName;
+            var studentsFromMath = students.GroupBy(st => st.Group.DepartmentName);
 
             foreach (var group in studentsFromMath)
             {
