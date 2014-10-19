@@ -1,24 +1,18 @@
-﻿namespace SchoolSystem
-{
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
+namespace SchoolSystem
+{
     public abstract class Person : INameable
     {
-        private List<Discipline> disciplines;
-
-        public string Name { get; protected set; }
+        private List<Discipline> _disciplines;
 
         public List<Discipline> Disciplines
         {
-            get
-            {
-                return new List<Discipline>(disciplines);
-            }
-            protected set
-            {
-                disciplines = value;
-            }
+            get { return new List<Discipline>(_disciplines); }
+            protected set { _disciplines = value; }
         }
+
+        public string Name { get; protected set; }
 
         public abstract override string ToString();
     }

@@ -1,29 +1,29 @@
-﻿namespace SchoolSystem
-{
-    using System.Collections.Generic;
-    using System;
+﻿using System;
+using System.Collections.Generic;
 
+namespace SchoolSystem
+{
     public class Student : Person
     {
-        public string ClassID { get; private set; }
-
         public Student(string name)
         {
-            base.Name = name;
-            ClassID = "Unknown";
-            base.Disciplines = new List<Discipline>();
+            Name = name;
+            ClassId = "Unknown";
+            Disciplines = new List<Discipline>();
         }
 
-        public Student(string name, List<Discipline> disciplines, string classID)
-            :this(name)
+        public Student(string name, List<Discipline> disciplines, string classId)
+            : this(name)
         {
-            base.Disciplines = disciplines;
-            this.ClassID = classID;
+            Disciplines = disciplines;
+            ClassId = classId;
         }
+
+        public string ClassId { get; private set; }
 
         public override string ToString()
         {
-            return string.Format("Student name: {0}" + Environment.NewLine + "Class ID: {1}", base.Name, this.ClassID);
+            return string.Format("Student name: {0}" + Environment.NewLine + "Class ID: {1}", Name, ClassId);
         }
     }
 }

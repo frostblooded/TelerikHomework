@@ -2,17 +2,16 @@
 {
     public class Discipline : INameable
     {
-        public string Name { get; private set; }
+        public Discipline(string name, int numberOfLectures, int numberOfExcercises)
+        {
+            Name = name;
+            NumberOfLectures = numberOfLectures;
+            NumberOfExcercises = numberOfExcercises;
+        }
 
         public int NumberOfLectures { get; private set; }
 
         public int NumberOfExcercises { get; private set; }
-
-        public Discipline(string name, int numberOfLectures, int numberOfExcercises)
-        {
-            this.Name = name;
-            this.NumberOfLectures = numberOfLectures;
-            this.NumberOfExcercises = numberOfExcercises;
-        }
+        public string Name { get; private set; }
     }
 }

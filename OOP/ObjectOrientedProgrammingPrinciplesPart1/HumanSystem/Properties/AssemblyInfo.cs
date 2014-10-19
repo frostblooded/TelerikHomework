@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("SchoolSystem")]
+[assembly: AssemblyTitle("HumanSystem")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SchoolSystem")]
+[assembly: AssemblyProduct("HumanSystem")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("f765088a-837e-4afd-ac5e-b0b1260ba904")]
+[assembly: Guid("6875dde1-0f0c-485c-b23c-8db29787e8fd")]
 
 // Version information for an assembly consists of the following four values:
 //

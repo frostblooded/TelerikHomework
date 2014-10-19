@@ -1,24 +1,24 @@
-﻿namespace SchoolSystem
-{
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
+namespace SchoolSystem
+{
     public class Teacher : Person
     {
         public Teacher()
         {
-            base.Disciplines = new List<Discipline>();
+            Disciplines = new List<Discipline>();
         }
 
         public Teacher(string name, List<Discipline> disciplines)
-            :this()
+            : this()
         {
-            base.Disciplines = disciplines;
-            base.Name = name;
+            Disciplines = disciplines;
+            Name = name;
         }
 
         public override string ToString()
         {
-            return string.Format("Teacher name: {0}", base.Name);
+            return string.Format("Teacher name: {0}", Name);
         }
     }
 }
