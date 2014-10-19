@@ -2,10 +2,24 @@
 {
     using System.Collections.Generic;
 
-    public interface IPerson
+    public abstract class Person : INameable
     {
-        string Name { get; }
+        private List<Discipline> disciplines;
 
-        List<Discipline> Disciplines { get; }
+        public string Name { get; protected set; }
+
+        public List<Discipline> Disciplines
+        {
+            get
+            {
+                return new List<Discipline>(disciplines);
+            }
+            protected set
+            {
+                disciplines = value;
+            }
+        }
+
+        public abstract override string ToString();
     }
 }

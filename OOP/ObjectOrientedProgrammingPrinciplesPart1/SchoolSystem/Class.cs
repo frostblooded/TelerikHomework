@@ -4,15 +4,35 @@
 
     public class Class
     {
-        List<Student> students;
+        private List<Person> students;
 
-        List<Teacher> teachers;
+        private List<Person> teachers;
 
-        List<Student> Students 
+        public Class()
+        {
+            Students = new List<Person>();
+            Teachers = new List<Person>();
+            TextID = "Unknown";
+        }
+
+        public Class(string textID)
+            : this()
+        {
+            this.TextID = textID;
+        }
+
+        public Class(string textID, List<Person> students, List<Person> teachers)
+            : this(textID)
+        {
+            this.Students = students;
+            this.Teachers = teachers;
+        }
+
+        public List<Person> Students 
         { 
             get
             {
-                return new List<Student>(students);
+                return new List<Person>(students);
             }
 
             private set
@@ -21,11 +41,11 @@
             }
         }
 
-        List<Teacher> Teachers 
+        public List<Person> Teachers 
         { 
             get
             {
-                return new List<Teacher>(teachers);
+                return new List<Person>(teachers);
             }
 
             private set
@@ -34,10 +54,6 @@
             }
         }
 
-        public Class()
-        {
-            Students = new List<Student>();
-            Teachers = new List<Teacher>();
-        }
+        public string TextID { get; private set; }
     }
 }

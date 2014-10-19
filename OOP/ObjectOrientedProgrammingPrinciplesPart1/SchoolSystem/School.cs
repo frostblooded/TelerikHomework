@@ -5,11 +5,23 @@ namespace SchoolSystem
 
     public class School
     {
-        List<Class> Classes { get; set; }
+        private List<Class> classes;
 
-        public School()
+        public List<Class> Classes
         {
-            Classes = new List<Class>();
+            get
+            {
+                return new List<Class>(classes);
+            }
+            private set
+            {
+                classes = value;
+            }
+        }
+
+        public School(List<Class> classes)
+        {
+            Classes = classes;
         }
     }
 }

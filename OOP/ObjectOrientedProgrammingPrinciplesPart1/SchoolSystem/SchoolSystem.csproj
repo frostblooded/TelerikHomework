@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Class.cs" />
     <Compile Include="Discipline.cs" />
+    <Compile Include="IDictionary.cs" />
+    <Compile Include="INameable.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="School.cs" />
     <Compile Include="SchoolSystem.cs" />

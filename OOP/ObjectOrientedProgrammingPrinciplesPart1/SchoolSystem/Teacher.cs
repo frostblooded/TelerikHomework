@@ -2,27 +2,23 @@
 {
     using System.Collections.Generic;
 
-    public class Teacher : IPerson
+    public class Teacher : Person
     {
-        List<Discipline> disciplines;
-
-        public string Name { get; private set; }
-
-        public List<Discipline> Disciplines
-        {
-            get
-            {
-                return new List<Discipline>(disciplines);
-            }
-            private set
-            {
-                disciplines = value;
-            }
-        }
-
         public Teacher()
         {
-            Disciplines = new List<Discipline>();
+            base.Disciplines = new List<Discipline>();
+        }
+
+        public Teacher(string name, List<Discipline> disciplines)
+            :this()
+        {
+            base.Disciplines = disciplines;
+            base.Name = name;
+        }
+
+        public override string ToString()
+        {
+            return string.Format("Teacher name: {0}", base.Name);
         }
     }
 }
