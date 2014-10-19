@@ -22,7 +22,7 @@ namespace HumanSystem
                 new Student("Petrov", "Ert", 5)
             };
 
-            var workers = new List<Worker>()
+            var workers = new List<Worker>
             {
                 new Worker("Valeri", "Elenkov", 140, 8),
                 new Worker("Peshov", "Petrov", 300, 6),
@@ -64,7 +64,6 @@ namespace HumanSystem
             }
 
             var mergedList = new List<Human>(students).Union(new List<Human>(workers));
-
             var sortedMergedList =
                 from human in mergedList
                 orderby human.FirstName, human.SecondName
