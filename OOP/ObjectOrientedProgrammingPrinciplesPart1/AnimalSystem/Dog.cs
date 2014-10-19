@@ -6,7 +6,7 @@
 
         public Dog(string name, int age, Sex sex)
             : base(name, age, sex)
-        {  
+        {
         }
 
         public void MakeSound()

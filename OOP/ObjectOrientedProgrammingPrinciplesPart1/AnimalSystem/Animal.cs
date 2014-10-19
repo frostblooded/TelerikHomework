@@ -73,7 +73,7 @@ namespace AnimalSystem
             Console.WriteLine("Tomcat: " + tomCatAverageAge);
         }
 
-        static protected void MakeSound(string file)
+        protected static void MakeSound(string file)
         {
             var soundPlayer = new SoundPlayer(file);
             soundPlayer.Play();
