@@ -49,10 +49,16 @@ namespace BankSystem
         }
         public DateTime CreationTime { get; set; }
 
-        protected bool FirstMonthsPassed(int months)
+        protected bool FirstMonthsPassed(int months, DateTime dateTimeChecked)
         {
-            var monthsFromStartDate = CreationTime.AddMonths(months);
-            return monthsFromStartDate < DateTime.Now;
+            var monthsFromStartDate = ((dateTimeChecked.Year - CreationTime.AddMonths(months).Year) * 12) + dateTimeChecked.Month - CreationTime.AddMonths(months).Month;
+
+            if (monthsFromStartDate >= 0)
+            {
+                return true;
+            }
+
+            return false;
         }
 
         public abstract decimal CalculateInterest(int months);

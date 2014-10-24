@@ -18,25 +18,39 @@ namespace BankSystem
             Balance += amount;
         }
 
-        public override decimal CalculateInterest(int months)
+        private int CalculateMonths(int months)
         {
             if (CustomerType == CustomerType.Individual)
             {
-                if (!FirstMonthsPassed(3))
-                { 
-                    months -= (DateTime.Now.Month - CreationTime.AddMonths(3).Month);
+                if (!FirstMonthsPassed(3, DateTime.Now.AddMonths(months)))
+                {
+                    months = 0;
+                    Console.WriteLine("There is no interest for the first 3 months!");
+                }
+                else
+                {
+                    months = DateTime.Now.Month - CreationTime.AddMonths(3).Month;
                 }
             }
-            else if (CustomerType == CustomerType.Company && FirstMonthsPassed(2))
+            else if (CustomerType == CustomerType.Company)
             {
-                months -= (DateTime.Now.Month - CreationTime.AddMonths(2).Month); ;
+                if (!FirstMonthsPassed(2, DateTime.Now.AddMonths(months)))
+                {
+                    months = 0;
+                    Console.WriteLine("There is no interest for the first 2 months!");
+                }
+                else
+                {
+                    months = DateTime.Now.Month - CreationTime.AddMonths(2).Month;
+                }
             }
 
-            if (months < 0)
-            {
-                months = 0;
-            }
+            return months;
+        }
 
+        public override decimal CalculateInterest(int months)
+        {
+            months = CalculateMonths(months);
             return Balance + Balance * months * InterestRate / 100;
         }
     }

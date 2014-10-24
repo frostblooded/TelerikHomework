@@ -22,9 +22,21 @@ namespace BankSystem
             Balance -= amount;
         }
 
+        private int CalculateMonths(int months)
+        {
+            if (Balance > 0 && Balance < 1000)
+            {
+                Console.WriteLine("There is no interest if your balance is below 1000!");
+                months = 0;
+            }
+
+            return months;
+        }
+
         public override decimal CalculateInterest(int months)
         {
-            return Balance + ((months * InterestRate) / 100);
+            months = CalculateMonths(months);
+            return Balance + Balance * months * InterestRate / 100;
         }
     }
 }
