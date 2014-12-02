@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			td {font-weight: bold;}
+			tr {text-align: right}
+			textarea {resize: none; vertical-align: bottom;}
+			input {float: left}
+		</style>
+	</head>
+	<body>
+		<form>
+			<table border="1" width="200px">
+				<tfoot>
+					<tr>
+						<td colspan="4">
+							<center>
+								<button type="submit">
+									Submit
+								</button>
+								<button type="clear">
+									Clear This Form
+								</button>
+							</center>
+						</td>
+					</tr>
+				</tfoot>
+				<tbody>
+					<tr>
+						<td style="width: 100px">
+							Last Name
+						</td>
+
+						<td colspan="3">
+							<input type="text" align="left">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							First Name
+						</td>
+
+						<td colspan="3">
+							<input type="text">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Address
+						</td>
+
+						<td colspan="3">
+							<textarea rows="3" style="float: left; width: 168px"></textarea>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							City
+						</td>
+
+						<td style="width: 70px">
+							<input type="text" style="width: 88px">
+						<td style="width: 20px">
+							State
+						</td>
+						<td style="width: 30px">
+							<input type="text" style="width: 30px">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Zip/Postal Code
+						</td>
+
+						<td colspan="3">
+							<input type="text" style="width: 50px">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Country
+						</td>
+
+						<td colspan="3">
+							<select style="float: left; width: 150px">
+								<option value="bulgaria">
+									Bulgaria
+								</option>
+								<option value="other">
+									Other
+								</option>
+							</select>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Phone (country code, area code, number)
+						</td>
+
+						<td colspan="3">
+							(+
+							<textarea style="width: 30px" rows="1"></textarea>
+							)
+							<textarea style="width: 30px" rows="1"></textarea>
+							-
+							<textarea style="width: 50px" rows="1"></textarea>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							E-mail
+						</td>
+
+						<td colspan="3">
+							<input type="email">
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Birth date
+						</td>
+
+						<td colspan="3" style="font-weight: normal">
+							Month
+							<textarea style="width: 30px" rows="1"></textarea>
+							Day
+							<textarea style="width: 30px" rows="1"></textarea>
+							Year(4 digit)
+							<textarea style="width: 30px" rows="1"></textarea>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Gender
+						</td>
+
+						<td colspan="3">
+							<select style="float: left">
+								<option value="male">
+									Male
+								</option>
+								<option value="female">
+									Female
+								</option>
+								<option value="other">
+									Other
+								</option>
+							</select>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Starting date
+						</td>
+
+						<td colspan="3">
+							<input type="radio" value="Spring 2006"> Spring 2006
+							<br>
+							<input type="radio" value="Summer 2006"> Summer 2006
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							Comments/Questions
+						</td>
+
+						<td colspan="3">
+							<textarea rows="3" style="width: 168px"></textarea>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</form>
+	</body>
+</html>
